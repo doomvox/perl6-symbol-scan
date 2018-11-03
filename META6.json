@@ -12,10 +12,10 @@
             },
             "depends" : [ ],
             "build-depends" : [ ],
-            "test-depends" : [ 'Test' ],
+            "test-depends" : [ "Test" ],
             "resources" : [ ],
             "tags": [
                 "Symbol", "Scan", "SymbolScan", "list_core_type_names"
             ],
-            "source-url" : "git://github.com/doomvox/Symbol-Scan.git"
+            "source-url" : "git://github.com/doomvox/perl6-symbol-scan.git"
         }
