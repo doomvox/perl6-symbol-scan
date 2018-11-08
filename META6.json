@@ -3,7 +3,7 @@
             "name" : "Symbol::Scan",
             "auth" : "github:doomvox",
             "api" : "1",
-            "version" : "0.0.1",
+            "version" : "0.0.3",
             "description" : "list types or classes currently in use",
             "authors" : [ "Joseph Brenner" ],
             "license" : "Artistic-2.0",
