@@ -12,7 +12,7 @@
             },
             "depends" : [ ],
             "build-depends" : [ ],
-            "test-depends" : [ 'Test' ],
+            "test-depends" : [ "Test" ],
             "resources" : [ ],
             "tags": [
                 "Symbol", "Scan", "SymbolScan", "list_core_type_names"
